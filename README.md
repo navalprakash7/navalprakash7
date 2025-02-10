@@ -3,11 +3,9 @@
 Welcome to my GitHub! I’m learning Android development and improving my DSA skills.
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning:**  
+- 💡 **What I Know:**  
   - Building Android applications and working with the Android SDK.  
   - Strengthening my understanding of intermediate-level Data Structures and Algorithms (DSA).  
-
-- 💡 **What I Know:**  
   - Basics of Android development, including UI design and activity lifecycle.  
   - Intermediate DSA concepts like linked lists, B-trees, sliding window, and dynamic programming.  
 
