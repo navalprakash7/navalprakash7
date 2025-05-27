@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m learning Android development and improving my DSA sk
 
 ## 🛠️ Skills  
 - **Languages:** Java, Kotlin, Flutter  
-- **Technologies:** DSA, Android SDK, XML, Jetpack Compose  
+- **Technologies:** Android SDK, XML, Jetpack Compose  
 - **Tools:** Android Studio, Firebase, Git-Github, VS Code, Eclipse, Apache NetBeans  
 
 ## 🌐 Connect with Me  
