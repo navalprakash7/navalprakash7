@@ -69,15 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalprakash7&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
----
-
-<h3 align="center">👀 Profile Visits</h3>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=navalprakash7&label=Profile%20Views&color=6A5ACD&icon=5&pretty=true" alt="Profile Visit Count"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" 
        width="250" 
