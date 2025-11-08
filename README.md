@@ -2,11 +2,10 @@
 <h1 align="center">Hey there 👋, I'm Naval Prakash</h1>
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif"
-       width="100%" 
-       alt="Android Developer Banner"/>
+  <img src="https://i.pinimg.com/originals/25/71/7e/25717e9df3c0f74b39a1c5a5f3bb9f8c.gif"
+       width="100%"
+       alt="Pixel Saturn animation"/>
 </p>
-
 
 ---
 
