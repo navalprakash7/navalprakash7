@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navalprakash7/navalprakash7/main/gif.gif"
-       width="1000"
-       height="600"
-       alt="Pixel Saturn animation"/>
+  <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" height="500" />
 </p>
 
 ---
@@ -66,9 +63,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navalprakash7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=navalprakash7&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalprakash7&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navalprakash7&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="navalprakash7's GitHub Stats" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=navalprakash7&theme=radical&hide_border=true&cache_seconds=86400" alt="navalprakash7's GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalprakash7&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -76,6 +73,12 @@
        width="250" 
        alt="coding animation"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
