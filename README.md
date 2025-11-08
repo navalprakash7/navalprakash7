@@ -2,8 +2,9 @@
 <h1 align="center">Hey there 👋, I'm Naval Prakash</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/25/71/7e/25717e9df3c0f74b39a1c5a5f3bb9f8c.gif"
-       width="100%"
+  <img src="https://raw.githubusercontent.com/navalprakash7/navalprakash7/main/gif.gif"
+       width="1000"
+       height="600"
        alt="Pixel Saturn animation"/>
 </p>
 
