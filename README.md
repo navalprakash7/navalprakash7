@@ -40,23 +40,20 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML%20Layouts-FF9800?style=for-the-badge&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-00ACC1?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM%20Architecture-FF4081?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E88E5?style=for-the-badge&logo=clean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-8BC34A?style=for-the-badge&logo=coding&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Retrofit-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-4CAF50?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON%20Parsing-808080?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1E88E5?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML%20Layouts-FFB300?style=for-the-badge&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Retrofit-0288D1?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON%20Parsing-546E7A?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
