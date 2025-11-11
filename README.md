@@ -42,8 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-00ACC1?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM%20Architecture-FF4081?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E88E5?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM%20%2B%20Clean%20Architecture-FF8577?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-E65100?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML%20Layouts-FFB300?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -52,7 +51,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Retrofit-0288D1?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-BBBEFE?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON%20Parsing-546E7A?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
