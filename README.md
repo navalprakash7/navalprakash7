@@ -13,7 +13,7 @@
 🚀 Android Developer passionate about crafting high-performance, intuitive mobile apps.  
 💡 Skilled in Kotlin, Jetpack Compose, and modern architectures like MVVM & **Clean Architecture.  
 🎯 Focused on delivering smooth, user-friendly experiences with clean, efficient code.  
-🧠 Strong foundation in Data Structures & Algorithms for writing optimized, scalable solutions.  
+🧠 Strong foundation in DSA & OOPs for writing optimized, scalable solutions.  
 
 ---
 
