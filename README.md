@@ -66,13 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalprakash7&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="45%" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" 
-       width="250" 
-       alt="coding animation"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
