@@ -57,15 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navalprakash7&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="navalprakash7's GitHub Stats" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=navalprakash7&theme=radical&hide_border=true&cache_seconds=86400" alt="navalprakash7's GitHub Streak" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalprakash7&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="45%" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
