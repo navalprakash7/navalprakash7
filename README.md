@@ -14,11 +14,12 @@
 * 🔍 Exploring Data Science and Machine Learning through projects and continuous learning.
 * 💡 Skilled in Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, and SQL for Exploratory Data Analysis (EDA).
 * 📊 Strong understanding of Statistics and Probability for data interpretation and analysis.
-* 🧠 Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming (OOP) for writing efficient and scalable solutions.
+* 🧠 Strong foundation in DSA and OOP for writing efficient and scalable solutions.
 
 ---
 
 ### 🌐 Connect With Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/naval-prakash-364163244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
